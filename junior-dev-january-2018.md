@@ -1,4 +1,4 @@
-# 🇫🇷 Développeur front junior
+# 🇫🇷 Développeur.se front junior
 
 Temps plein ou Stage de fin d'études ou Apprentissage
 
@@ -7,8 +7,8 @@ Hellohikimori est un studio de création digitale basé à Paris. HKI réalise d
 ## Le poste
 Intégrer l'équipe dev pour se former sur des projets à forte connotation créative. Collaborer sur des projets variés allant de l'expérience digitale au site vitrine.
 
-## Profile recherché
-- Autonome et curieux
+## Profil recherché
+- Autonome et curieux.se
 - Soif d'apprendre
 - Approche créative et sensibilité au design
 - Travail en équipe
@@ -26,7 +26,7 @@ Intégrer l'équipe dev pour se former sur des projets à forte connotation cré
 - Unity ou Unreal engine
 - Logiciel 3D (Blender, C4D, Maya ou autre)
 
-Rémunération selon le profile et l'expérience.
+Rémunération selon le profil et l'expérience.
 Envoyez votre candidature et votre CV à jobs@hellohikimori.com
 
 - [website](http://hellohikimori.com/)
