@@ -1,4 +1,4 @@
-# 🇫🇷 Dévelpoppeur front junior
+# 🇫🇷 Développeur front junior
 
 Temps plein ou Stage de fin d'étude ou Apprentissage
 
