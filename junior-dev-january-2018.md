@@ -5,7 +5,7 @@ Temps plein ou Stage de fin d'études ou Apprentissage
 Hellohikimori est un studio de création digitale basé à Paris. HKI réalise de nombreux projets digitaux, notamment des expériences web mais travaille également avec les marques concernant leurs réseaux sociaux et outils de communication (site vitrine, affichage).
 
 ## Le poste
-Intégrer l'équipe dev pour se former sur des projets à forte connotation créative. Le postulant sera amené à travailler sur des projets variés allant de l'expérience digitale au site vitrine.
+Intégrer l'équipe dev pour se former sur des projets à forte connotation créative. Collaborer sur des projets variés allant de l'expérience digitale au site vitrine.
 
 ## Profile recherché
 - Autonome et curieux
