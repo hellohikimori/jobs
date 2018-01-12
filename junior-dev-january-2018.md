@@ -1,11 +1,11 @@
 # 🇫🇷 Développeur front junior
 
-Temps plein ou Stage de fin d'étude ou Apprentissage
+Temps plein ou Stage de fin d'études ou Apprentissage
 
 Hellohikimori est un studio de création digitale basé à Paris. HKI réalise de nombreux projets digitaux, notamment des expériences web mais travaille également avec les marques concernant leurs réseaux sociaux et outils de communication (site vitrine, affichage).
 
 ## Le poste
-Intégrer l'équipe dev pour se former sur des projets à forte connotation créative.
+Intégrer l'équipe dev pour se former sur des projets à forte connotation créative. Le postulant sera amené à travailler sur des projets variés allant de l'expérience digitale au site vitrine.
 
 ## Profile recherché
 - Autonome et curieux
@@ -29,6 +29,10 @@ Intégrer l'équipe dev pour se former sur des projets à forte connotation cré
 Rémunération selon le profile et l'expérience.
 Envoyez votre candidature et votre CV à jobs@hellohikimori.com
 
+- [website](http://hellohikimori.com/)
+- [instagram](https://www.instagram.com/hellohikimori_paris)
+- [twitter](twitter.com/hellohikimori)
+
 -------------
 # 🇬🇧 Junior front-end Developer 
 
@@ -37,7 +41,7 @@ Full time or (paid) intership or (paid) apprenticeship
 Hellohikimori is a creative digital studio in Paris. HKI produces diversified digital projects including web experiences and brand content for social medias.
 
 ## The job
-Join the dev team and learn with us on highly creative projects.
+Join the dev team and learn with us on highly creative projects. You will work on digital experiences and showcase website.
 
 ## You
 - Curious and independant
@@ -61,3 +65,7 @@ Join the dev team and learn with us on highly creative projects.
 Salary depending on profile and experience.
 Although we will not limit to french speakers, be advised that it is preferable to at least know some basic french.
 Send your CV and application to jobs@hellohikimori.com
+
+- [website](http://hellohikimori.com/)
+- [instagram](https://www.instagram.com/hellohikimori_paris)
+- [twitter](twitter.com/hellohikimori)
