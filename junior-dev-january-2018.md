@@ -63,7 +63,7 @@ Join the dev team and learn with us on highly creative projects. You will work o
 - 3D Software (Blender, C4D, Maya, etc...)
 
 Salary depending on profile and experience.
-Although we will not limit to french speakers, be advised that it is preferable to at least know some basic french.
+Although we will not limit ourselves to french speakers, be advised that it is preferable to at least know some basic french.
 Send your CV and application to jobs@hellohikimori.com
 
 - [website](http://hellohikimori.com/)
